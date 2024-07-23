@@ -26,3 +26,6 @@ In my research, the bare minimum time complexity for pattern printing is O(N^2) 
 All these approaches fall under the same time complexity but preference of the approach varies upon the choice of the user.
 Traditional approach is optimal for Knowledged coders but few of the mentioned approaches are useful for the rookies or beginners.
 Basic Knowledge over String operations assists the coders to implement pattern printing.
+
+# CODE LINK
+https://colab.research.google.com/drive/1Yp8qRnNTrTm-kPvPWnfwU_PhR_c-Q5m5?usp=sharing 
